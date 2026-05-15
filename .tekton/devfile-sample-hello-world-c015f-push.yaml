@@ -151,7 +151,7 @@ spec:
         - name: name
           value: git-clone-oci-ta
         - name: bundle
-          value: quay.io/tnevrlka-test/tekton-catalog/task-git-clone-oci-ta:0.2@sha256:96726beb61b09cb6a334624e3d7dfd4f44a941f410dec9ac8742e50222898225
+          value: quay.io/tnevrlka-test/tekton-catalog/task-git-clone-oci-ta:0.2@sha256:a6c900f66ab950a692c1b4b9af59ca3946e9bf14e37c2e7ef9d085683f598c13
         - name: kind
           value: task
         resolver: bundles
